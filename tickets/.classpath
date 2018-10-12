@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/dom4j-2.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/jsondepend/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/ElipseWorkPlace/jsondepend/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/elipsething/eclipse/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
